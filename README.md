@@ -1,0 +1,1 @@
+postgresql+psycopg://cdc:cdc@localhost:6024/cdc

@@ -6,9 +6,13 @@ dist/
 wheels/
 *.egg-info
 *.ipynb
+.mypy_cache
 
 # Virtual environments
 .venv
 
 # API Keys
 .env
+
+# generated files
+cdc_extracted.txt
